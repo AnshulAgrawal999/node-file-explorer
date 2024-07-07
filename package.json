@@ -1,0 +1,20 @@
+{
+  "name": "node_file-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshulAgrawal999/node-file-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshulAgrawal999/node-file-explorer/issues"
+  },
+  "homepage": "https://github.com/AnshulAgrawal999/node-file-explorer#readme"
+}
